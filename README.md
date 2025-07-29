@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Plugin for pyonir web framework
+# 🛒 Pyonir web framework Ecommerce Plugin
 
 A lightweight and modular shopping cart plugin designed for seamless integration into any web-based storefront. Easily manage products, quantities, pricing, and cart state with flexible APIs and optional UI bindings.
 
