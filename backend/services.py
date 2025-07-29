@@ -4,7 +4,7 @@ from enum import StrEnum
 
 from pyonir.libs.plugins.ecommerce import Ecommerce
 from pyonir.libs.plugins.ecommerce.backend.models import Product, CartItem, Order, Customer
-from pyonir.types import PyonirRequest, PyonirApp
+from pyonir.pyonir_types import PyonirRequest, PyonirApp
 
 Id: str = ''
 Qty: int = 0
